@@ -1,0 +1,52 @@
+﻿<Window x:Class="MessengerAppClientWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MessengerAppClientWpf"
+        mc:Ignorable="d"
+        Title="Chitchat" Height="592" Width="425" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="CurrentUserPositionRight" TargetType="StackPanel">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ChatMemberNickName}" Value="currentUser">
+                    <Setter Property="HorizontalAlignment" Value="Right"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="CurrentUserMessage" TargetType="TextBox">
+                <Setter Property="Background" Value="LightGray"/>
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding ChatMemberNickName}" Value="currentUser">
+                        <Setter Property="Background" Value="LightBlue"/>
+                    </DataTrigger>
+                </Style.Triggers>
+        </Style>
+        <Style x:Key="CurrentUserNickNameHidden" TargetType="TextBox">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ChatMemberNickName}" Value="currentUser">
+                    <Setter Property="Visibility" Value="Hidden"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Name="primarni">
+        <Label x:Name="label" Content="Enter Nickname :" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.339,-0.009" Width="121" FontFamily="Calibri" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="tBoxNickName" HorizontalAlignment="Left" Height="26" Margin="136,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="127" FontSize="14" FontFamily="Calibri" VerticalContentAlignment="Center"/>
+        <Button x:Name="btnSignIn" Content="Sign In" HorizontalAlignment="Left" Margin="279,19,0,0" VerticalAlignment="Top" Width="81" Height="26" Click="btnSignIn_Click" FontWeight="Bold"  />
+        <Label x:Name="label1" Content="Message :" HorizontalAlignment="Left" Margin="21,390,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Calibri" FontSize="14"/>
+        <TextBox x:Name="tBoxMessageText" HorizontalAlignment="Left" Height="98" Margin="21,422,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="281" FontSize="16" FontFamily="Calibri" BorderBrush="#FF1148EE"/>
+        <Button x:Name="btnPostMessage" Content="Post" HorizontalAlignment="Left" Margin="307,422,0,0" VerticalAlignment="Top" Width="75" Click="btnPostMessage_Click" FontSize="14" FontWeight="Bold" Height="40"  />
+        <ListBox x:Name="lBox"  Height="319" Margin="21,62,59,0" VerticalAlignment="Top" ItemsSource="{Binding}" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" BorderBrush="#FF0F1C9E" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Style="{StaticResource CurrentUserPositionRight}">
+                        <TextBox x:Name="tBoxItemNickName" Height="26" TextWrapping="Wrap" Text="{Binding Path=ChatMemberNickName}" BorderThickness="0"  Width="150" HorizontalAlignment="Left"  IsReadOnly="True" Style="{StaticResource CurrentUserNickNameHidden}" FontSize="11" FontFamily="Calibri"  VerticalContentAlignment="Center"/>
+                        <TextBox x:Name="tBoxItemMessage" Height="auto" TextWrapping="Wrap" Text="{Binding Path=ChatMemberMessage}" BorderThickness="1" BorderBrush="RoyalBlue" Width="150" HorizontalAlignment="Left" IsReadOnly="True" FontSize="14" FontFamily="Calibri" FontWeight="Bold" Style="{StaticResource CurrentUserMessage}">
+                        </TextBox>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

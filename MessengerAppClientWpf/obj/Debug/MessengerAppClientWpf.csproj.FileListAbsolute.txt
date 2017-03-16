@@ -1,0 +1,28 @@
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\bin\Debug\MessengerAppClientWpf.exe.config
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\bin\Debug\MessengerAppClientWpf.exe
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\bin\Debug\MessengerAppClientWpf.pdb
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.csprojResolveAssemblyReference.cache
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\App.g.cs
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf_MarkupCompile.cache
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf_MarkupCompile.lref
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MainWindow.baml
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.g.resources
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.Properties.Resources.resources
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.csproj.GenerateResource.Cache
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.exe
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.pdb
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\bin\Debug\MessengerAppClientWpf.exe.config
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\bin\Debug\MessengerAppClientWpf.exe
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\bin\Debug\MessengerAppClientWpf.pdb
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.csprojResolveAssemblyReference.cache
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\App.g.cs
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf_MarkupCompile.cache
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf_MarkupCompile.lref
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MainWindow.baml
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.g.resources
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.Properties.Resources.resources
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.csproj.GenerateResource.Cache
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.exe
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerAppClientWpf\obj\Debug\MessengerAppClientWpf.pdb

@@ -1,0 +1,11 @@
+c:\users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerApp.Service\bin\Debug\MessengerApp.Service.dll.config
+c:\users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerApp.Service\bin\Debug\MessengerApp.Service.dll
+c:\users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerApp.Service\bin\Debug\MessengerApp.Service.pdb
+c:\users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerApp.Service\obj\Debug\MessengerApp.Service.dll
+c:\users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerApp.Service\obj\Debug\MessengerApp.Service.pdb
+C:\Users\micro\documents\visual studio 2015\Projects\MessengerApp_ver2\MessengerApp.Service\obj\Debug\MessengerApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerApp.Service\bin\Debug\MessengerApp.Service.dll.config
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerApp.Service\bin\Debug\MessengerApp.Service.dll
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerApp.Service\bin\Debug\MessengerApp.Service.pdb
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerApp.Service\obj\Debug\MessengerApp.Service.dll
+C:\Users\micro\Desktop\CurrentProjects\MessengerApp_ver2\MessengerApp.Service\obj\Debug\MessengerApp.Service.pdb
