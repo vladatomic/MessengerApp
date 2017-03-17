@@ -10,3 +10,4 @@ Nastaviće se razvoj app u pravcu da mogu poruke da se kriptuju i da mogu da se 
 Kriptovanje će biti kroz poseban šablon.
 
 Poz.......
+Vlada Tomić :)
